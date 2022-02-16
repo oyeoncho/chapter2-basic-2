@@ -1,0 +1,11 @@
+#MD
+*.md
+#Logs
+*.log
+#csv, txt, xlsx, xls
+*.csv
+*.txt
+*.xlsx
+*.xls
+# raw_data
+raw_data/
